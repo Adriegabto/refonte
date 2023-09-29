@@ -76,7 +76,7 @@ Comme dans la précedente erreur, la balise "a" ne peut pas etre la descendante 
 ```html
 <button class="cn"><a href="#">JOIN US</a></button>
 ``` 
--> supression de la balise "a" pour un button "aria-labl" qui redigera vers la page choisi
+-> supression de la balise "a" pour un button "aria-label" qui redigera vers la page choisi
 ```html
 <button aria-label="link">JOIN US</button>
 ```
