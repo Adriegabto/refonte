@@ -110,3 +110,30 @@ Correction de l'erreur, div fermante en trop
 **9 eme erreur ligne 62**
 Correction de l'erreur, div fermante en trop
 </div> -> supression de la div
+
+
+
+**Modification du HTML**
+
+*Modifaction de la langue* en effet l'element "lang" est en anglais il est donc modifié pour etre en "fr"
+```html
+<html lang="fr">
+```
+
+*Ajout de meta dans le head*
+```html
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Webpage Design & Development">
+    ```
+
+*Ajout h2* Ajout d'un titre dans la section h2
+
+*Modifacation de la ligne 27* 
+Rajout du "name" et ajout de la methode "sumbit" pour pouvoir soumettre la recherche
+```html
+<input class="srch" type="search" name="recherche" placeholder="Type To text">
+```
+
+
+**Modification des "px" en "rem"**
